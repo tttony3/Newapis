@@ -10,6 +10,7 @@ import android.view.View;
 import android.widget.ImageView;
 
 public class Main2Activity extends AppCompatActivity {
+
     private static final String KEY_ID = "ViewTransitionValues:id";
     private int mImageResourceId = 0;
     String[] id = {"img1","img2","img3"};
